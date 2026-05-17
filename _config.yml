@@ -24,13 +24,13 @@ repository               : "ShanJiangEE/shanjiang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Australia"
+  employer         : "UNSW Sydney"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shan.jiang4@unsw.edu.au" 
 
   # Academic websites
   academia         : # URL
